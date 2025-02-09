@@ -62,6 +62,8 @@ A rede será do tipo LAN, cobrindo todas as áreas da escola, incluindo secretar
 
 Para mais informações, consulte o documento PDF de planejamento.
 
-Projeto lógico resultante
+Usanmos o Packet Tracer para desenvolver o projeto lógico.
+
+Projeto lógico resultante:
 
 ![Descrição da Imagem](projeto-logico.png)
