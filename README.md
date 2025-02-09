@@ -2,11 +2,11 @@ Projeto de Modernização da Infraestrutura de Rede Escolar
 
 Integrantes
 
-Lucas de Lima da Silva (121110517)
+Lucas de Lima da Silva
 
-Luiz Augusto Oliveira de Farias (120110389)
+Luiz Augusto Oliveira de Farias
 
-Luiz Sergio Pompeu Alves Filho (121110409)
+Luiz Sergio Pompeu Alves Filho
 
 David Ferreira
 
