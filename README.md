@@ -61,3 +61,7 @@ Escopo do Projeto
 A rede será do tipo LAN, cobrindo todas as áreas da escola, incluindo secretaria e salas de aula. A expansão futura da infraestrutura não está incluída no escopo deste projeto inicial, mas a implementação permitirá futuras expansões.
 
 Para mais informações, consulte o documento PDF de planejamento.
+
+Projeto lógico resultante
+
+![Descrição da Imagem](projeto-logico.png)
