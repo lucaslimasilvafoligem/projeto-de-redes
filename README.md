@@ -1,69 +1,53 @@
-Projeto de Modernização da Infraestrutura de Rede Escolar
+# Projeto de Modernização da Infraestrutura de Rede Escolar
 
-Integrantes
+## Integrantes
+- **Lucas de Lima da Silva** – 121110517  
+- **Luiz Augusto Oliveira de Farias** – 120110389  
+- **Luiz Sergio Pompeu Alves Filho** – 121110409  
+- **David Ferreira**  
 
-Lucas de Lima da Silva
+## Resumo Executivo  
+Este projeto tem como objetivo modernizar a infraestrutura de rede de uma escola, garantindo uma conexão Wi-Fi eficiente e segura em todas as suas dependências.  
 
-Luiz Augusto Oliveira de Farias
+- **Térreo**: Contará com sala dos professores, biblioteca e sala de coordenação.  
+- **Andares superiores**: Salas de aula conectadas à rede.  
+- **Rede para visitantes**: Implementação de uma rede separada para garantir segurança da rede principal.  
 
-Luiz Sergio Pompeu Alves Filho
+## Benefícios  
+- Melhoria na qualidade do ensino com acesso rápido e confiável à internet.  
+- Aumento da produtividade de professores e funcionários.  
+- Maior atratividade da escola para alunos e pais.  
+- Conformidade com regulamentações de proteção de dados.  
 
-David Ferreira
+## Clientes e Mercado  
+- **Cliente principal**: A própria escola (administradores e corpo docente).  
+- **Foco**: Educação primária e secundária na comunidade local.  
+- **Fornecedores**: Responsáveis por equipamentos, instalação e consultoria em TI.  
 
-Resumo Executivo
+## Vantagens Competitivas  
+- Infraestrutura de rede moderna e segura.  
+- Diferencial competitivo na atração de novos alunos.  
+- Integração de tecnologia educacional para ensino interativo.  
+- Gestão mais eficiente e redução de custos administrativos.  
 
-Este projeto visa modernizar a infraestrutura de rede de uma escola, proporcionando uma conexão Wi-Fi eficiente e segura em todas as suas dependências. O térreo abrigará a sala dos professores, biblioteca e sala de coordenação, enquanto os andares superiores contarão com salas de aula conectadas. Uma rede separada para visitantes será implementada para reforçar a segurança da rede principal.
+## Objetivo do Projeto  
+- Fornecer **internet de alta velocidade** para ensino e administração.  
+- Implementar **segurança e segmentação de tráfego de rede**.  
+- Integrar **tecnologias educacionais** para aprimorar o aprendizado.  
 
-Benefícios
+### Critérios de Sucesso  
+- Cobertura Wi-Fi completa e ininterrupta.  
+- Redes segregadas com segurança reforçada.  
+- Operação estável, sem interrupções ou vulnerabilidades.  
 
-Melhoria na qualidade do ensino com acesso rápido e confiável à internet.
+## Escopo do Projeto  
+A rede será do tipo **LAN**, cobrindo todas as áreas da escola, incluindo secretaria e salas de aula.  
+Expansões futuras não estão incluídas, mas a infraestrutura permitirá futuras ampliações.  
 
-Aumento da produtividade de professores e funcionários.
+## Desenvolvimento  
+Utilizamos o **Cisco Packet Tracer** para modelar o projeto lógico.  
 
-Maior atratividade da escola para alunos e pais.
+### Projeto lógico resultante  
+![Diagrama da Rede](projeto-logico.png)  
 
-Conformidade com regulações de proteção de dados.
-
-Clientes e Mercado
-
-O principal cliente é a própria escola, representada pelos administradores e corpo docente. O projeto tem como foco a educação primária e secundária da comunidade local. Fornecedores serão essenciais na provisão de equipamentos e consultoria em TI.
-
-Vantagens Competitivas
-
-Infraestrutura de rede moderna e segura.
-
-Diferencial competitivo para atração de novos alunos.
-
-Integração de tecnologia educacional.
-
-Gestão mais eficiente e otimização de custos.
-
-Objetivo do Projeto
-
-Aprimorar a infraestrutura de rede da escola, garantindo:
-
-Internet de alta velocidade para ensino e administração.
-
-Segurança e segmentação de tráfego de rede.
-
-Integração de tecnologias educacionais.
-
-Critérios de sucesso incluem:
-
-Cobertura Wi-Fi completa e ininterrupta.
-
-Implementação segura de redes segregadas.
-
-Operação estável sem interrupções ou brechas de segurança.
-
-Escopo do Projeto
-
-A rede será do tipo LAN, cobrindo todas as áreas da escola, incluindo secretaria e salas de aula. A expansão futura da infraestrutura não está incluída no escopo deste projeto inicial, mas a implementação permitirá futuras expansões.
-
-Para mais informações, consulte o documento PDF de planejamento.
-
-Usanmos o Packet Tracer para desenvolver o projeto lógico.
-
-Projeto lógico resultante:
-
-![Descrição da Imagem](projeto-logico.png)
+Para mais detalhes, consulte o documento PDF de planejamento.
